@@ -7,7 +7,7 @@ import streamlit as st
 
 from agent_app import query_agent, create_agent
 
-st.title("👨‍💻 Pregunta a tu CSV")
+st.title("📊 Pregunta a tu CSV")
 
 st.write("Cargua tu archivo CSV o Excel a continuación.")
 
